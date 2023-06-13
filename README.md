@@ -1,4 +1,4 @@
-# Group 3 GitHub Profile
+# Final Exam Assignment
 
 Welcome to the GitHub profile of Group 3! We are a group of passionate developers students working together on our final project. Here, you'll find an overview of our team, projects, and skills.
 
@@ -14,13 +14,7 @@ We are Group 3, a team of student developers dedicated to building innovative so
 ## Projects
 Here are a few notable projects we have worked on:
 
-- [coffeespots.html](https://github.com/timovd12/Final-Project/blob/main/coffeespots.html): By yuria-loo
-
-- [spaceNeedle.html](https://github.com/timovd12/Final-Project/blob/main/spaceNeedle.html): By timovd12
-- [PikesPlace.html ](https://github.com/timovd12/Final-Project/blob/main/PikesPlace.html): By timovd12
-
-- [LakeUnion.html](https://github.com/timovd12/Final-Project/blob/main/LakeUnion.html): By Hanadi
-
+- [local1.html](https://github.com/timovd12/Final-Project/blob/main/coffeespots.html): By yuria-loo
 
 Feel free to explore our repositories to find more projects and code samples.
 
@@ -37,7 +31,7 @@ This list represents some of our core competencies. We continuously expand our s
 ## Contact
 You can reach out to us through the following channels:
 
-- Website: [https://github.com/timovd12/Final-Project)
+- Website: [https://github.com/yuria-loo/IT115-final-project)
 
 Feel free to connect with us for collaborations, inquiries, or any further information.
 
