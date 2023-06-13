@@ -14,7 +14,7 @@ We are Group 3, a team of student developers dedicated to building innovative so
 ## Projects
 Here are a few notable projects we have worked on:
 
-- [local1.html](https://github.com/timovd12/Final-Project/blob/main/coffeespots.html): By yuria-loo
+- [local1.html](local1.html): By yuria-loo
 
 Feel free to explore our repositories to find more projects and code samples.
 
